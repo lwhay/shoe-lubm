@@ -1,0 +1,11 @@
+<http://www.Department[0-1]\d*\.University\d+\.edu.*>$<http://www.Department,|University,|edu,$lubm_0.idx
+<http://www.Department[2-3]\d*\.University\d+\.edu.*>$<http://www.Department,|University,|edu,$lubm_1.idx
+<http://www.Department[4-5]\d*\.University\d+\.edu.*>$<http://www.Department,|University,|edu,$lubm_2.idx
+<http://www.Department[6-7]\d*\.University\d+\.edu.*>$<http://www.Department,|University,|edu,$lubm_3.idx
+<http://www.Department[8-9]\d*\.University\d+\.edu.*>$<http://www.Department,|University,|edu,$lubm_4.idx
+"UndergraduateStudent\d*.*$UndergraduateStudent,|Department,|University,|edu,$lubm_5.idx
+"FullProfessor.*$FullProfessor,|Department,|University,|edu,$lubm_6.idx
+"GraduateStudent.*$GraduateStudent,|Department,|University,|edu,$lubm_7.idx
+"AssociateProfessor.*$AssociateProfessor,|Department,|University,|edu,$lubm_8.idx
+"AssistantProfessor.*$AssistantProfessor,|Department,|University,|edu,$lubm_9.idx
+"Lecturer.*$Lecturer,|Department,|University,|edu,$lubm_10.idx

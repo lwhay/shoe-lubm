@@ -1,0 +1,18 @@
+<http://www.Department0\d*\.University\d+\.edu.*>$<http://www.Department, a|University, b|edu, c$lubm_0.idx
+<http://www.Department1\d*\.University\d+\.edu.*>$<http://www.Department, a|University, b|edu, c$lubm_1.idx
+<http://www.Department2\d*\.University\d+\.edu.*>$<http://www.Department, a|University, b|edu, c$lubm_2.idx
+<http://www.Department3\d*\.University\d+\.edu.*>$<http://www.Department, a|University, b|edu, c$lubm_3.idx
+<http://www.Department4\d*\.University\d+\.edu.*>$<http://www.Department, a|University, b|edu, c$lubm_4.idx
+<http://www.Department5\d*\.University\d+\.edu.*>$<http://www.Department, a|University, b|edu, c$lubm_5.idx
+<http://www.Department6\d*\.University\d+\.edu.*>$<http://www.Department, a|University, b|edu, c$lubm_6.idx
+<http://www.Department7\d*\.University\d+\.edu.*>$<http://www.Department, a|University, b|edu, c$lubm_7.idx
+<http://www.Department8\d*\.University\d+\.edu.*>$<http://www.Department, a|University, b|edu, c$lubm_8.idx
+<http://www.Department9\d*\.University\d+\.edu.*>$<http://www.Department, a|University, b|edu, c$lubm_9.idx
+<http://www.University*$<http://www.University, a|edu, b$lubm_10.idx
+<http://www.lehigh.edu*$<http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl, a$lubm_11.idx
+"UndergraduateStudent*$UndergraduateStudent, a|Department, b|University, c|edu, d$lubm_12.idx
+"FullProfessor*$FullProfessor, a|Department, b|University, c|edu, d$lubm_13.idx
+"GraduateStudent*$GraduateStudent, a|Department, b|University, c|edu, d$lubm_14.idx
+"AssociateProfessor*$AssociateProfessor, a|Department, b|University, c|edu, d$lubm_15.idx
+"AssistantProfessor*$AssistantProfessor, a|Department, b|University, c|edu, d$lubm_16.idx
+"Lecturer*$Lecturer, a|Department, b|University, c|edu, d$lubm_17.idx
